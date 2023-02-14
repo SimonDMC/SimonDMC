@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Simon!
 
-<!--
-**SimonDMC/SimonDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code and make [cool stuff](https://simondmc.com/websites) (mostly web apps) in my free time :)
 
-Here are some ideas to get you started:
+I also make [Minecraft maps](https://simondmc.com/maps)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Yeah my stats aren't that great
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonDMC&show_icons=true&theme=react)
+
+I try to give a proper readme to every released/finished project, so if you find a repo that doesn't have one, chances are it's just a demo, proof of concept or simply unfinished - check back later :))
+
+↓ Here are some of my projects ↓
