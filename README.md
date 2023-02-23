@@ -6,8 +6,6 @@ I also make [Minecraft maps](https://simondmc.com/maps)!
 
 Yeah my stats aren't that great
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonDMC&show_icons=true&theme=react)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonDMC&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 I try to give a proper readme to every released/finished project, so if you find a repo that doesn't have one, chances are it's just a demo, proof of concept or simply unfinished - check back later :))
-
-↓ Here are some of my projects ↓
